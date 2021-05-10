@@ -1,16 +1,10 @@
 ## 챗봇 과제
  동국대학교 교육대학원 챗봇 실습과제입니다. 
 
-### Markdown
+# 챗봇 설명
+# 오른쪽 하단의 챗봇을 클릭해 보세요.
+# 챗봇과 대화를 시도해 보세요.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
