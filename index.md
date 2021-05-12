@@ -5,11 +5,7 @@
 ##챗봇과 대화를 시도해 보세요.
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
