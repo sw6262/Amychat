@@ -3,7 +3,7 @@
 
 ## 오른쪽 하단의 챗봇을 클릭해 보세요.
 ##챗봇과 대화를 시도해 보세요.
-![세곡초 사진](https://user-images.githubusercontent.com/81296972/118233176-85707580-b4cc-11eb-8277-3d731d7040ce.png)
+![세곡초사진](https://user-images.githubusercontent.com/81296972/118234662-9fab5300-b4ce-11eb-85e0-276eead18ece.png)
 
 
 
